@@ -6,9 +6,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-ferreira-9b0099117/)](https://www.linkedin.com/in/vitor-ferreira-9b0099117/)
 
-🔭 I’m currently working on SUINCO
+🔭 I’m currently working as a Computer Technician on [SUINCO COOPERATIVA DE SUINOCULTORES](https://www.instagram.com/suincozinhapremiada/)
 
-I spent my free time studying Microsoft technologies, such as C #, .Net Framework, SQL Server, ASP.NET, .Net Core and others. I also like to study subjects related to Software Engineering, systems architecture and design standards
+💬 Graduated in Information Systems at the Centro Universitário de Patos de Minas - UNIPAM
+
+I spent my free time studying Microsoft technologies, such as C #, .Net Framework, SQL Server, ASP.NET, .Net Core and others. I also like to study subjects related to Software Engineering, systems architecture and design patterns
 
 “Come back anytime”-
 2005, Merchant.
