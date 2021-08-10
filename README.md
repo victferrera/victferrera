@@ -6,22 +6,4 @@
 
 Welcome to my Github
 
-👂 I spent my free time studying Microsoft technologies, such as C #, .Net Framework, SQL Server, ASP.NET, .Net Core and others. I also like to study subjects related to Software Engineering, systems architecture and design patterns
-
-Come back anytime
-
-
-<!--
-**victferrera/victferrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on SUINCO
-🌱 I’m currently learning C# and .NET Framework
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning C# and .NET Technologies
