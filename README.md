@@ -6,4 +6,4 @@
 
 Welcome to my Github
 
-🌱 I’m currently learning C# and .NET Technologies
+🌱 I’m currently learning C# and .NET
